@@ -1,0 +1,88 @@
+
+.logo{
+    font-size: 30px !important;
+    font-family: 'lobster';
+    color: purple;
+}
+.navbar a{
+   font-size:17px;
+   color: purple;
+   font-weight: 500;
+
+}
+.navbar a:hover{
+    color: gray;
+}
+.navbar li{
+    margin-left: 25px;
+}
+.col1-container{
+    background-color: purple;
+
+    margin-top: 10%;
+    opacity:0.9;
+    color: white;
+    border-radius: 10px;
+    border-top-left-radius: 90px;
+    text-align: center;
+    height: 70vh;
+    letter-spacing: 1px;
+
+}
+.col1-container h1{
+    padding-top: 3rem !important;
+    margin-bottom: 1rem;
+    font-size:2rem;
+    font-weight: 700;
+    font-family: 'lobster';
+}
+.col1-container p{
+        font-size: 1rem;
+        font-weight: 300;
+        line-height: 1.3;
+        letter-spacing: 1px;
+        padding-bottom: 1rem;
+}
+.bank2{
+    width: 10rem;
+    border-radius: 10px;
+}
+.forms{
+    color: white;
+    margin-top: 70px !important;
+   
+}
+.headerform{
+    color: purple;
+    margin-bottom: 30px;
+    font-size: 30px
+}
+.btn{
+width: 100%;
+background-color: purple;
+opacity: 0.8;
+outline: none;
+padding: 15px 0;
+border-radius: 10px;
+color: white;
+border: none;
+font-weight: 500;
+margin-bottom: 40px;
+}
+input{
+    padding: 15px !important;
+}
+.link{
+    color: purple;
+}
+.link a{
+    text-decoration: none;
+    color: gray;
+}
+.link a:hover{
+    color: green;
+}
+.btn:hover{
+    background-color: green;
+    opacity: 0.5;
+}

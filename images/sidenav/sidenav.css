@@ -1,0 +1,57 @@
+.side-navbar {
+    width: 180px;
+    height: 100%;
+    position: fixed;
+    margin-left: -300px;
+    background-color:purple;
+    opacity: 0.9;
+    transition: 0.5s;
+  }
+  .side-navbar li a{
+    color: white !important;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .side-navbar li a:hover{
+      color: gray !important;
+    }
+  .logo1{
+    font-family: 'lobster';
+    font-size: 30px;
+    color:purple !important;
+    margin-left: 100px;
+  }
+  .nav-link:active,
+  .nav-link:focus,
+  .nav-link:hover {
+    background-color: #ffffff26;
+  }
+  .nav{
+    margin-right: 100px;
+  }
+  .nav li a{
+    margin-left: 20px;
+    color:gray;
+    font-weight: 600;
+  }
+  .nav li a:hover{
+   color: purple;
+  } 
+ 
+  .my-container {
+    transition: 0.4s;
+  }
+  .active-nav {
+    margin-left: 0;
+  }
+  /* for main section */
+  .active-cont {
+    margin-left: 180px;
+  }
+  #menu-btn {
+    background-color: #100901;
+    color: #fff;
+    margin-left: -62px;
+  }
+  
